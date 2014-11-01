@@ -4,7 +4,8 @@ Hardware
 ===========
 The robot uses the following hardware:
 Netduino board: This is the board that runs the .NET Micro Framework.  Detailed information about the board is available at: http://netduino.com/
-Pololu Robotics Zumo Arduino Robot Kit: The Zumo Robot kit provides the chassis, motor and sensors for robot locomotion and environment detection.  The robot kit and details on how to assemble can be found at: [http://www.pololu.com/](http://www.netmf.com)
+
+The model used for this demo is [Pololu Robotics Zumo Arduino Robot Kit: The Zumo Robot kit] (http://www.pololu.com/product/2510) it provides the chassis, motor and sensors for robot locomotion and environment detection.The robot kit and details on how to assemble can be found at: [http://www.pololu.com/](http://www.pololu.com/)
 
 
 Development Environment
