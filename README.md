@@ -27,3 +27,8 @@ The robot uses its onboard infrared sensors to detect the black outline of a cir
 Additional Resources
 =====================
 For additional information on the .NET Micro Framework please visit  [http://www.netmf.com/](http://www.netmf.com)  
+
+
+===
+
+This project has adopted the [Microsoft Open Source Code of Conduct](http://microsoft.github.io/codeofconduct). For more information see the [Code of Conduct FAQ](http://microsoft.github.io/codeofconduct/faq.md) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments. 
